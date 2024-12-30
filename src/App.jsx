@@ -1,4 +1,4 @@
-import Chat from "./components/chat/chat";
+import Chat from "./components/chat/chat.jsx";
 import Detail from "./components/detail/Detail";
 import List from "./components/list/List";
 
