@@ -28,7 +28,51 @@ const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="center"></div>
+      <div className="center">
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <img
+              src="https://images.pexels.com/photos/19155212/pexels-photo-19155212/free-photo-of-roof-on-a-yellow-building.jpeg"
+              alt=""
+            />
+            <p>vroom vroom tu tu tu rut max verśtapen kuru kuru</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
